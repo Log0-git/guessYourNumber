@@ -1,0 +1,5 @@
+C:/Users/Tima/source/repos/GuessYournumber/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Tima/source/repos/GuessYournumber/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Tima/source/repos/GuessYournumber/out/build/x64-Debug/GuessYournumber/CMakeFiles/edit_cache.dir
+C:/Users/Tima/source/repos/GuessYournumber/out/build/x64-Debug/GuessYournumber/CMakeFiles/GuessYournumber.dir
+C:/Users/Tima/source/repos/GuessYournumber/out/build/x64-Debug/GuessYournumber/CMakeFiles/rebuild_cache.dir
